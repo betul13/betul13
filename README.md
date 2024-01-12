@@ -8,6 +8,7 @@ Hello, I'm Betül 👋
 
 
 -[LinkedIn](https://www.linkedin.com/in/betululuocak/)
+
 -[Medium](https://medium.com/@betuldogan406)
 
 
