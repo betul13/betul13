@@ -1,14 +1,11 @@
+Hello, I'm Betül 👋
 
-Merhaba, ben Betül 👋
-🎓 Yıldız Teknik Üniversitesi Elektrik Mühendisliği'nden 2023 mezunuyum. Üniversite eğitimim sırasında sağlam bir teknik temel edindim, ancak gerçek tutkum veri bilimi ve makine öğrenmesiyle, katıldığım bootcamp'ler ve etkinlikler sayesinde alevlendi.
+🎓 I graduated from Yıldız Technical University with a degree in Electrical Engineering in 2023. During my university education, I built a solid technical foundation, but my true passion lies in data science and machine learning, which was ignited through various bootcamps and events I attended.
 
-🚀 Bu alanlarda aktif olarak öğrenmekte ve sürekli kendimi geliştirmekteyim. Bootcamp'ler ve çeşitli etkinlikler sayesinde edindiğim bilgileri, gerçekleştirdiğim projelerle pekiştirdim. Bu projeleri GitHub profilimde bulabilirsiniz: [GitHub](https://github.com/betul13)
+🚀 I am actively learning and constantly improving in these fields. I have solidified the knowledge gained through bootcamps and events by working on various projects. You can find these projects on my GitHub profile: GitHub
 
+🌐 You can follow me on social media for updates on projects, experiences, and the knowledge I gain as I progress in the exciting fields of data science and machine learning:
 
-🌐 Sosyal medya hesaplarım aracılığıyla beni takip edebilirsiniz:
-
-- [LinkedIn](https://www.linkedin.com/in/betululuocak/)
-- [Medium](https://medium.com/@betululuocak)
-
-
-💼 Veri bilimi ve makine öğrenmesi alanlarında gerçekleştirdiğim projeler, kazandığım deneyimler ve bu heyecan verici alanda ilerledikçe edindiğim bilgiler hakkında güncellemeler için LinkedIn ve Medium profillerimi takip edin.
+LinkedIn
+Medium
+💼 Follow my LinkedIn and Medium profiles for updates on projects in data science and machine learning, experiences gained, and knowledge acquired as I navigate through this exciting field.
